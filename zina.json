@@ -1,1 +1,372 @@
-vvvvvvvvvvvvvvvvvvvvvvvvvvvv
+{
+   "AdsManager":{
+      "adNetwork" :"admob",
+      "interstitial_admob":"ca-app-pub-3940256099942544/1033173712",
+      "banner_admob":"ca-app-pub-3940256099942544/6300978111",
+      "native_admob":"ca-app-pub-3940256099942544/2247696110",
+
+      "interstitial_fan":"IMG_16_9_APP_INSTALL#465986095404427_474869491182754",
+      "banner_fan":"IMG_16_9_APP_INSTALL#465986095404427_474834121186291",
+      "native_fan":"IMG_16_9_APP_INSTALL#465986095404427_474850511184652"
+   },
+   "Songs" :[
+      {
+         "song_name":"1. Rendez Vous",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=35093",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+      {
+         "song_name":"2. Sayidati",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=36446",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+      {
+         "song_name":"3. Galbi Ndawih",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=37647",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"4. Hamra Mi Amore",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=38826",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"5. Daba Tchouf",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=39129",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"A Sahebti",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=39760",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"07. Chkon Ysam3ak",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=40536",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"08. Swaken",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=40537",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"09. Lghaba",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=40538",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"10. Moussi9a Chaabia Nachta",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=40539",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"11. Lkayd L3iyadi",
+           "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=40540",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"12. Wali Netfahmo",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=40541",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"13. L3aloua",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=40542",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"14. Ktabt Lik Braya",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=40543",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"15. Nabki Bdmou3i",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=40544",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"16. Alabas",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=40545",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"17. Sar Far",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=40546",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"18. Salba Salba",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=40547",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"19. Wa Benti",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=40548",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"20. Omri",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=40549",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"21. Diricha",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=40774",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"22. Nabki Bdmou3i",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=42302",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      }, {
+         "song_name":"23. Daba Tchouf",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=42303",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      }, {
+         "song_name":"24. Galbi Ndawih",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=42304",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      }, {
+         "song_name":"25. Nesmeh Wma Nensach",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=42305",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      }, {
+         "song_name":"26. Men Wala Derto Hbib",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=42308",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      }, {
+         "song_name":"27. Sentiha",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=42309",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      }, {
+         "song_name":"28. Wahdaniya Ya LMima",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=42310",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      }, {
+         "song_name":"29. Ya Dalemni",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=42311",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      }, {
+         "song_name":"30. Ha Hiya Jatek Al Wlid",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=42312",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      }, {
+         "song_name":"31. Rah M3aya",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=42313",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      }, {
+         "song_name":"32. 10 3LA 10",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=42314",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      }, {
+         "song_name":"33. Tibarbass",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=42315",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      }, {
+         "song_name":"34. Rani M3ak Lyoum",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=42316",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      }, {
+         "song_name":"35. Zman Ya Zman L3ebti Biya",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=42317",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      }, {
+         "song_name":"36. El Khadem",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=42318",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      }, {
+         "song_name":"37. Aatini Saki",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=42319",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      }, {
+         "song_name":"38. Aicha",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=42320",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      }, {
+         "song_name":"39. Ana Nssit",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=42321",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      }, {
+         "song_name":"40. Anta Khatar",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=42322",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      }, {
+         "song_name":"41. Bessif Manedwi",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=42323",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      }, {
+         "song_name":"42. Bniya Sabri",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=42324",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      }, {
+         "song_name":"43. Chedi Weldek Aliya",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=42325",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },{
+         "song_name":"44. Chnou Dartili",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=42326",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },{
+         "song_name":"45. Diro Kima Ana",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=42327",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },{
+         "song_name":"46. El 3yout",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=42328",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },{
+         "song_name":"47. El Fih",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=42330",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },{
+         "song_name":"48. Fik Dert Teqa",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=42332",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },{
+         "song_name":"49. Fin El Hob We Fin Rfaga",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=42333",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },{
+         "song_name":"50. Ghrib We Barrani",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=42335",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },{
+         "song_name":"51. /down.php?s_id=42338",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=42338",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },{
+         "song_name":"52. Rihtek A3tat",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=42346",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },{
+         "song_name":"53. hawel W 7awel",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=42354",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },{
+         "song_name":"54. Fotona Ghir Ntouma",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=48947",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },{
+         "song_name":"54. Nekwi Rouhi",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=48948",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },{
+         "song_name":"55. Chouf B3inik Machi Bwdnik",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=49511",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },{
+         "song_name":"56. Mucca Pazza",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=49506",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },{
+         "song_name":"57. Depassiti Lhoudoud",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=49990",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },{
+         "song_name":"58. Nabda b ism Fatah",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=50756",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },{
+         "song_name":"59. Salman Lhazem",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=50797",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },{
+         "song_name":"60. Nta",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=51085",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },{
+         "song_name":"61. Glbak Hajra",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=51214",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },{
+         "song_name":"62. Ach Bini W Binak",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=55892",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },{
+         "song_name":"63. Omri Twahachto ",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=57534",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },{
+         "song_name":"64. Alawah",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=57533",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },{
+         "song_name":"65. Romansiya ",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=58324",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"66. Bon Courage",
+         "artist":"Zina daoudia",
+         "song_link":"https://www.nozika.co/down.php?s_id=58334",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      }
+   ]
+}
